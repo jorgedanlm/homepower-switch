@@ -1,0 +1,10 @@
+﻿{
+  "ats": ["ATS 1.jpg","ATS 2.jpg"],
+  "nema-5-15p": ["conector nema 5 - 15P.jpg"],
+  "nema-tt-30p": ["conextor nema tt-30P.jpg"],
+  "breaker-2p": ["Breker 1.avif","breker 2.avif"],
+  "breaker-3p": ["breker 3.avif","breker 2.avif"],
+  "protector": ["protector de voltaje.avif","protector de voltaje 2.avif"],
+  "monitor": ["monitor.avif"],
+  "nema-5-20r": ["conector nema 5-20R.jpg"]
+}
